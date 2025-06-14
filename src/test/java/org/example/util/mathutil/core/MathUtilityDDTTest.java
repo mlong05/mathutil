@@ -23,7 +23,7 @@ public static Object[][] initData(){
             {1,1},
             {2,2},
             {3,6},
-            {4,120}
+            {4,24}
     };      //n expected
 }
 @ParameterizedTest
